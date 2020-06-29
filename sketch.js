@@ -28,7 +28,7 @@ function setup() {
  box17=new Box(450+50+100,275,30,40)
  box18=new Box(480+50+100,275,30,40)
  box19=new Box(510+50+100,275,30,40)
- box20=new Box(200,300,30,30);
+ box20=new Polygon(200,300,6,20,"red");
  
  ground2=new ground(540,305,300,15)
  ground3=new ground(400,380,800,20)
